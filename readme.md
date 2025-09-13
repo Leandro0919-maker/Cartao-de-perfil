@@ -3,7 +3,7 @@ Este é um projeto de um componente de cartão de perfil, desenvolvido como part
 🚀 Visão Geral
 O componente exibe a foto de um usuário, informações pessoais como nome, idade e cidade, e estatísticas de engajamento, como seguidores, curtidas e fotos.
 
-Screenshot
+
 Tecnologias Utilizadas
 HTML5: Para a estrutura semântica do conteúdo.
 
